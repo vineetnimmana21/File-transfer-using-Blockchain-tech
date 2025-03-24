@@ -1,0 +1,48 @@
+In this project we have five modules
+1. Data Owner
+2. Data User
+3.Cloud
+4.Network 1
+5.Network 2
+
+Cloud:
+   Login the account with the correct credentails
+   View owner and authorize
+   View user and Authorize
+   View owner request and Send key for File uploaf
+   Send Decryption Key
+   View all uploaded files
+   Graph
+   Logout
+    
+Data Owner
+  Register the account with the basic information
+  After authorized by cloud owner can login the account
+  Make a request for key
+  View key and upload the file with the encrypted format, If we need to select the network and node for
+  file upload
+  View files
+  logout
+
+Data user:
+ Register the account with the basic information
+ After authorized bu cloud user can login the account
+ View uploaded files with encrypted format
+ Make a request for particular file
+ If we enter the key correctly means, the file should be downloaded.
+After downloaded it should be decrypted format.
+ Logout
+
+Network 1
+ Login the account with correct credentails
+ View network1 uploaded files
+ logout
+
+
+Network 2
+  Login the account with correct credentails
+  View network2 uploaded files
+  Logout
+  
+
+
